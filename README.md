@@ -1,1 +1,1 @@
-# LangChain Documentation Helper
+# chain-gpt
