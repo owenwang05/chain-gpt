@@ -8,7 +8,7 @@ if __name__ == "__main__":
   url = "https://python.langchain.com/v0.2/docs/concepts/"
   
   # The directory to store files in
-  output_dir = "./langchain-docs-scrape/"
+  output_dir = "./langchain-docs/"
   
   # Create the output directory if it doesn't exist
   os.makedirs(output_dir, exist_ok=True)
